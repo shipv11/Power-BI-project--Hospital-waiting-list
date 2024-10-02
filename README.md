@@ -45,3 +45,5 @@ The terms used in this dataset are defined as follows:
 - A big majority of people have to wait either less than three month or more than 18 months.
 - Majority of waiting patients are between the ages of 16-64.
 - While the trend in inpatient cases has remained mostly stable, the trend of outpatient cases has been steadily increasing.
+
+  ![](https://github.com/shipv11/Shipra_Portfolio/blob/main/Images/Screenshot%202024-09-24%20140516)
