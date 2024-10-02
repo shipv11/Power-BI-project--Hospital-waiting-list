@@ -1,5 +1,11 @@
 # PowerBIproject-HospitalWaitingList
 Analysis of a publicly available dataset from Ireland about the waiting list of patients requiring treatment from a few hospitals between 2018 and 2021.
+The terms used in this dataset are defined as follows:
+
+- **Outpatient**- a patient who comes in the hospital for a short consultation and is not admitted.
+- **Day Case**- a patient who is admitted to the hospital but goes home the same day.
+- **Inpatient**- a patient who is admitted to the hospital for one or more nights.
+
 ## Objectives:
 -	Track current status of patient waiting list.
 -	Analyse historical monthly trend of waiting list in Inpatient and Outpatient categories.
