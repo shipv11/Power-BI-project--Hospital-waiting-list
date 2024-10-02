@@ -1,9 +1,9 @@
 # PowerBIproject-HospitalWaitingList
 Analysis of a publicly available dataset from Ireland about the waiting list of patients requiring treatment from a few hospitals between 2018 and 2021.
 ## Objectives:
-•	Track current status of patient waiting list.
-•	Analyse historical monthly trend of waiting list in Inpatient and Outpatient categories.
-•	Detailed speciality level and age profile analysis.
+-	Track current status of patient waiting list.
+-	Analyse historical monthly trend of waiting list in Inpatient and Outpatient categories.
+-	Detailed speciality level and age profile analysis.
 
 **Metrics**- Average and Median waiting list, current total waiting list.
 
